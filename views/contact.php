@@ -2,4 +2,6 @@
 
     echo "Page contact";
 
+    echo "oui";
+
 ?>
